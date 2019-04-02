@@ -29,7 +29,8 @@
         <!--View Controller-->
         <scene sceneID="LFf-xe-XnO">
             <objects>
-                <viewController storyboardIdentifier="sonController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="BgL-sz-Acq" sceneMemberID="viewController">
+                <placeholder placeholderIdentifier="IBFirstResponder" id="OSv-mC-aY2" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <viewController storyboardIdentifier="secondViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="BgL-sz-Acq" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="RSY-AR-kCo">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -37,9 +38,8 @@
                         <viewLayoutGuide key="safeArea" id="3i3-3O-BpF"/>
                     </view>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="OSv-mC-aY2" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1702.8985507246377" y="126.5625"/>
+            <point key="canvasLocation" x="1843" y="119"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="j8t-WX-qR7">
